@@ -39,4 +39,4 @@ In order to complete this I was definitely using very hacky teqniques, guessing 
 
 ## Author
 
-- Frontend Mentor - [@yourusername](hhttps://www.frontendmentor.io/profile/JonKnitt1205)
+- Frontend Mentor - [@JonKnitt1205](https://www.frontendmentor.io/profile/JonKnitt1205)
